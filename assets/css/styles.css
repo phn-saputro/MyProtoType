@@ -1,0 +1,62 @@
+.btn-orange{
+    padding: 8px 30px;
+    background-color: #ffc100;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.btn-orange:hover{
+    background-color: #f6cf5b;
+    color: #ffffff;
+}
+
+.btn-orange-small{
+    margin: 10px 10px;
+    padding: 7px 30px;
+    background-color: #ffc100;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.btn-orange-small:hover{
+    background-color: transparent;
+    border-color: #ffc100;
+    color: #ffffff;
+}
+
+.color{
+    color: #ffc100;
+}
+
+.bg-orange{
+    background-color: #ffc100;
+}
+
+.text-mix{
+    color: #ffffff;
+}
+
+.avatar{
+    width: 90%;
+}
+
+.fab{
+    color: #ffffff;
+}
+
+.icon{
+    cursor:pointer;
+    transition: 0.2s all ease;
+}
+
+.icon:hover{
+    width: 200%;
+}
+
+.hover-effect {
+    transition: transform .18s ease-in-out;
+}
+  
+.hover-effect:hover {
+    transform: translateY(-4px);
+}
